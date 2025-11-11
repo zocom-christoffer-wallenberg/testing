@@ -1,3 +1,3 @@
 function login() {
-  console.log("Login code");
+  console.log("Login successful");
 }
