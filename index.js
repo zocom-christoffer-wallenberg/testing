@@ -1,1 +1,1 @@
-console.log("Hello from main + feature/login");
+console.log("Hello from main");
