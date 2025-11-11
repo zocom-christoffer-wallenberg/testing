@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "npx semantic-release"
+    "release": "npx semantic-release --no-ci"
   },
   "keywords": [],
   "author": "",
